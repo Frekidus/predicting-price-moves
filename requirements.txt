@@ -1,0 +1,9 @@
+pandas
+numpy
+textblob
+nltk
+pynance
+ta-lib
+matplotlib
+seaborn
+
